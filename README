@@ -1,0 +1,5 @@
+SnakeShell is a Shell for Unix-Like Operating Systems
+LICENSE: GPL-3
+
+Required Libraries:
+	libreadline
